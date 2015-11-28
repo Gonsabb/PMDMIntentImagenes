@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PMDMIntentImagenes</string>
+    <string name="cargarimagen">Cargar imagen</string>
+
+    <string name="girar">Girar 90º a la derecha</string>
+    <string name="cambiarcolor">Cambiar saturación</string>
+    <string name="aumentartamanno">Aumentar x1.5</string>
+    <string name="disminuirtamanno">Disminuir x0.5</string>
+    <string name="guardarimagen">Guardar Imagen</string>
+    <string name="nombrefoto">Nombre de la foto</string>
+
+</resources>
